@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊問經字母品第十四
+#+DATE: 2015-08-30 20:09:01.166389
+#+PROPERTY: JUAN 0
