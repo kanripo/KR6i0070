@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:00.992674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:32
 #+TITLE: 文殊問經字母品第十四
 #+PROPERTY: CBETA_ID T14n0469
 #+PROPERTY: ID KR6i0070
